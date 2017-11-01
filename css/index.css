@@ -146,6 +146,7 @@ header p{
 .add-qq{
     margin-left:1.45rem;
     margin-top:1.8rem;
+    font-size: 0
 }
 .add-qq span{
     font-size:0.6rem;
@@ -161,6 +162,7 @@ header p{
     display: block;
     margin-left:5.65rem;
     font-size:0.6rem;
+    line-height: 0.6rem;
     font-weight:bold;
     color: #f1ff14;
     margin-top:0.3rem;
