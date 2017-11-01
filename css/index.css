@@ -322,7 +322,8 @@ header p{
     width: 7.05rem;
     height: 1.575rem;
     line-height:1.5rem;
-    background: #9d14d0;
+    background: url("../images/m2-3.png") no-repeat 6.0rem center #9d14d0;
+    background-size: 0.475rem;
     position: absolute;
     bottom:0;
     left:0.25rem;
@@ -336,8 +337,6 @@ header p{
     vertical-align: middle;
     line-height:0.6rem;
     padding-right:0.75rem;
-    background: url("../images/m2-3.png") no-repeat right center;
-    background-size: 0.475rem;
 }
 .fix{
     width: 18.0rem;
